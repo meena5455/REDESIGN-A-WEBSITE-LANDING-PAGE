@@ -60,6 +60,10 @@ Previewed the design on various screen sizes using Figma’s device preview tool
 
 Exported the design in PNG format for sharing on social media and as a PDF for print.
 
+## OLD DESIGN
+
+![Image](https://github.com/user-attachments/assets/af41de56-e09c-445b-b99f-8d50e5776498)
+
 ## OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/bb54f614-77d0-4ba9-a4cc-9a9477085031)
