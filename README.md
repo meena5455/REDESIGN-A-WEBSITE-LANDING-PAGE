@@ -59,3 +59,7 @@ Maintained consistent spacing and alignment for neatness.
 Previewed the design on various screen sizes using Figma’s device preview tools.
 
 Exported the design in PNG format for sharing on social media and as a PDF for print.
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bb54f614-77d0-4ba9-a4cc-9a9477085031)
